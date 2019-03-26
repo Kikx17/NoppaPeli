@@ -8,5 +8,6 @@ namespace NoppaPeli
 {
 	interface INimi
 	{
+		string Nimi { get; }
 	}
 }

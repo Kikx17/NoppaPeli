@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace NoppaPeli
 {
-	class Pelaaja
+	class Pelaaja : INimi
 	{
+		public string Nimi { get; set; }
+		public int Pisteet { get; set; }
 	}
 }

@@ -8,5 +8,6 @@ namespace NoppaPeli
 {
 	static class Sovellus
 	{
+		static int VOITONPISTERAJA = 3;
 	}
 }
