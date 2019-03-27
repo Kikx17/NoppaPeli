@@ -1,0 +1,2 @@
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.csprojAssemblyReference.cache
+C:\Users\Kikx\Desktop\Tiedostot\Koulu(ICT)\Olio\NoppaPeli\NoppaPeli\obj\Debug\NoppaPeli.csproj.CoreCompileInputs.cache

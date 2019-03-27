@@ -8,8 +8,8 @@ namespace NoppaPeli
 {
 	class Noppa
 	{
-		static int rand = Random();
-		//static Random rand = new Random();
+		static Random rand = new Random();
+		static int noppalkm = rand.Next(1, 7);
 
 		//Ominaisuudet
 
@@ -23,9 +23,11 @@ namespace NoppaPeli
 		}
 
 		//Metodit
-		public int Heita()
+		static int Heita()
 		{
 			return Id + Nimi;
+			set { }
+
 		}
 	}
 }
